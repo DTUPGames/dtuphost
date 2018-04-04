@@ -108,4 +108,32 @@ background: #03A9F4;
 margin-right: .5rem;
 border-radius: 50%;
 color: #fff;
-font-size: 10px;}
+font-size: 10px;
+}
+.Lettre:hover {
+    color: white;
+    background: #b8042d;
+}
+.Lettre {
+    padding: 0.5rem 0.9rem;
+    background: #d61d47;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    margin: 1px;
+}
+.titulo-forpage {
+    font-size: 1.3rem;
+    border-radius: 4px;
+    font-weight: 500;
+    background: #000;
+    color: #fff;
+}
+.Nosteallink_DTUP {
+    background: rgb(155, 155, 155, 0.29);
+    padding: 1.9rem 1.9rem;
+    font-size: 1.15rem;
+    margin: 1rem 0rem;
+    text-align: justify;
+    border-radius: 4px;
+}
