@@ -4,7 +4,92 @@ Style Name       : Anime DTUP
 Style Designer   : DTUP Games
 Owner Url   	 : www.dtupgames.com
 ----------------------------------------------- */
+.Anime{
+    background: #01BCF3;
+    position: absolute;
+    bottom: .5rem;
+    right: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 10px;
+}
+.Serie{
+    background: #4375eb;
+    position: absolute;
+    bottom: .5rem;
+    right: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 10px;
+}
+.Película{
+    background: #FD3246;
+    position: absolute;
+    bottom: .5rem;
+    right: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 10px;
+}
+.Especial{
+    background: #3f51b5;
+    position: absolute;
+    bottom: .5rem;
+    right: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 10px;
+}
+.language-Lat{
+    background: #00bcd4;
+        position: absolute;
+    top: .5rem;
+    left: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 3px;
+}
 
+.language-Cast{
+    background: #e83030;
+        position: absolute;
+    top: .5rem;
+    left: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 3px;
+}
+
+.language-Sub{
+    background: #009688;
+    position: absolute;
+    top: .5rem;
+    left: .5rem;
+    z-index: 10;
+    color: #fff;
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: 0.1rem 1rem;
+    border-radius: 3px;
+}
 .presequel {
 padding-top: 1rem;
 margin-top: 0.5rem;
