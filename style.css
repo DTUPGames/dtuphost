@@ -1,2 +1,26 @@
-/*=> Colocar Estilos*/
- 
+/*
+-----------------------------------------------
+Style Name       : Anime DTUP
+Style Designer   : DTUP Games
+Owner Url   	 : www.dtupgames.com
+----------------------------------------------- */
+
+.presequel {
+padding-top: 1rem;
+margin-top: 0.5rem;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+text-decoration: none;
+color: rgba(0, 0, 0, 0.75);
+font-weight: 700;}
+.presequel:hover, .presequel:focus, .presequel:active {
+text-decoration: none;}
+.presequel span {
+margin-left: .5rem;
+color: rgba(0, 0, 0, 0.4);}
+.presequel::before {
+padding: 3px;
+background: #03A9F4;
+margin-right: .5rem;
+border-radius: 50%;
+color: #fff;
+font-size: 10px;}
